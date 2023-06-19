@@ -1,0 +1,42 @@
+OTU	LogMaxMean	Class	LDA	pValue
+c__Gammaproteobacteria	5.75279	-
+c__Alphaproteobacteria	5.07386	Squamous	4.30543	0.0122656
+c__Negativicutes	3.54941	-
+c__Actinobacteria	4.69897	Adenocarcinoma	4.12506	0.00236572
+c__Bacilli	4.92218	-
+c__Bacteroidia	4.99932	-
+c__Deinococci	5.11293	Adenocarcinoma	4.64856	5.89758e-06
+c__Gracilibacteria	3.28204	Adenocarcinoma	2.83101	0.000564753
+c__Bdellovibrionia	3.15829	Adenocarcinoma	2.9987	0.0214576
+c__Vampirivibrionia	4.09418	-
+c__Fusobacteriia	3.79803	-
+c__Oligoflexia	3.39165	Adenocarcinoma	3.16863	3.05722e-05
+c__Clostridia	4.37797	-
+c__Campylobacteria	4.12329	-
+c__Chlamydiae	3.17473	-
+c__Saccharimonadia	3.51374	Adenocarcinoma	2.86367	0.00554149
+c__Parcubacteria	3.5121	Adenocarcinoma	3.09622	0.0440407
+c__Thermoanaerobacteria	0.9448	-
+c__Verrucomicrobiae	3.26141	-
+c__Elusimicrobia	1.12768	-
+c__Desulfovibrionia	2.3972	-
+c__Polyangia	2.89316	-
+c__Lentisphaeria	2.27571	-
+c__ABY1	3.00941	Adenocarcinoma	2.90766	0.0304562
+c__Acidobacteriae	2.03019	-
+c__Coriobacteriia	3.00675	-
+c__Omnitrophia	2.09866	-
+c__Myxococcia	2.74705	-
+c__Acidimicrobiia	2.06744	-
+c__Cyanobacteriia	2.99318	-
+c__Thermoleophilia	1.93124	-
+c__Anaerolineae	2.565	-
+c__Chloroflexia	3.04681	-
+c__Methylomirabilia	1.9078	-
+c__Spirochaetia	1.18875	-
+c__Planctomycetes	1.80419	-
+c__Vicinamibacteria	2.43482	-
+c__Babeliae	2.03548	-
+c__Blastocatellia	2.98588	-
+c__OLB14	1.94012	-
+c__Berkelbacteria	1.32651	-

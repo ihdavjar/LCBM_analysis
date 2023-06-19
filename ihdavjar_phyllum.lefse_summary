@@ -1,0 +1,21 @@
+OTU	LogMaxMean	Class	LDA	pValue
+p__Proteobacteria	5.83458	Squamous	4.62835	0.000527205
+p__Firmicutes	5.04906	-
+p__Actinobacteriota	4.7135	Adenocarcinoma	4.11326	0.00340268
+p__Bacteroidota	4.99626	-
+p__Deinococcota	5.10877	Adenocarcinoma	4.65152	5.69668e-06
+p__Patescibacteria	4.00291	Adenocarcinoma	3.50225	0.000267623
+p__Bdellovibrionota	3.70453	Adenocarcinoma	3.38951	0.000214146
+p__Cyanobacteria	4.1091	-
+p__Fusobacteriota	3.79194	-
+p__Campilobacterota	4.12313	-
+p__Verrucomicrobiota	3.55325	Adenocarcinoma	3.46426	0.0454234
+p__Elusimicrobiota	1.11446	-
+p__Desulfobacterota	2.38296	-
+p__Myxococcota	2.91671	-
+p__Acidobacteriota	3.12332	-
+p__Chloroflexi	3.16522	-
+p__Methylomirabilota	1.90413	-
+p__Spirochaetota	1.17561	-
+p__Planctomycetota	1.80419	-
+p__Dependentiae	2.03295	-

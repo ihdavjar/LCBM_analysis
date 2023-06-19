@@ -1,0 +1,82 @@
+OTU	LogMaxMean	Class	LDA	pValue
+o__Burkholderiales	5.54171	-
+o__Rhizobiales	4.72376	-
+o__Veillonellales.Selenomonadales	3.58673	-
+o__Pseudomonadales	5.28996	-
+o__Lactobacillales	4.71276	-
+o__Sphingobacteriales	3.55967	Adenocarcinoma	3.31027	0.00331218
+o__Flavobacteriales	4.89028	-
+o__Thermales	5.13317	Adenocarcinoma	4.68892	3.72904e-05
+o__Cytophagales	3.46642	-
+o__Bacillales	4.0032	-
+o__Sphingomonadales	4.7494	-
+o__Bdellovibrionales	3.06226	Adenocarcinoma	2.85414	0.00513587
+o__Obscuribacterales	4.10665	-
+o__Enterobacterales	4.34876	Squamous	3.39058	0.0424198
+o__Caulobacterales	4.07018	-
+o__Fusobacteriales	3.81043	-
+o__Propionibacteriales	2.31006	-
+o__Bacteroidales	4.50793	-
+o__Oligoflexales	2.79979	Adenocarcinoma	2.93297	0.00412544
+o__Exiguobacterales	3.00652	-
+o__Micrococcales	3.42583	-
+o__Peptostreptococcales.Tissierellales	3.80238	-
+o__Staphylococcales	4.15695	-
+o__Lachnospirales	4.00435	-
+o__Pasteurellales	4.00676	-
+o__Campylobacterales	4.12438	-
+o__Rhodobacterales	3.36315	-
+o__Chlamydiales	3.19218	-
+o__Saccharimonadales	3.58227	Adenocarcinoma	2.84478	0.00554151
+o__Candidatus_Kaiserbacteria	3.54166	Adenocarcinoma	3.00994	0.00142221
+o__Thermoanaerobacterales	0.969597	-
+o__Frankiales	2.96323	-
+o__Xanthomonadales	4.18655	-
+o__Oscillospirales	3.84338	-
+o__Clostridiales	2.97456	-
+o__Verrucomicrobiales	3.27804	-
+o__Erysipelotrichales	2.77484	-
+o__Lineage_IV	1.19889	-
+o__Desulfovibrionales	2.43341	-
+o__Polyangiales	2.89681	-
+o__Christensenellales	2.12682	-
+o__Victivallales	2.25352	-
+o__Rhodospirillales	2.51369	-
+o__Coriobacteriales	3.12747	-
+o__Omnitrophales	2.1904	-
+o__Myxococcales	2.84145	-
+o__Bacteriovoracales	2.51594	-
+o__0319.6G20	3.2976	Adenocarcinoma	2.89456	0.00117156
+o__Microtrichales	2.2404	-
+o__Chitinophagales	3.21913	-
+o__Acetobacterales	2.37686	-
+o__Steroidobacterales	1.70592	-
+o__Acidaminococcales	1.72098	-
+o__Solirubrobacterales	2.01015	-
+o__SBR1031	2.61959	-
+o__Gracilibacteria	2.48433	-
+o__JGI_0000069.P22	2.09593	-
+o__Deinococcales	3.32304	-
+o__Kallotenuales	2.02287	-
+o__Chloroflexales	1.56596	-
+o__Paenibacillales	2.94422	-
+o__Rokubacteriales	1.92913	-
+o__Caenarcaniphilales	2.49697	-
+o__Candidatus_Komeilibacteria	1.93906	-
+o__Absconditabacteriales_.SR1.	1.36105	-
+o__Spirochaetales	1.19196	-
+o__Clostridia_UCG.014	1.63023	-
+o__Gastranaerophilales	2.74184	-
+o__Clostridia_vadinBB60_group	2.34184	-
+o__Vicinamibacterales	2.46098	-
+o__Babeliales	2.06388	-
+o__Candidatus_Falkowbacteria	2.0867	-
+o__Pyrinomonadales	2.96298	-
+o__Candidatus_Staskawiczbacteria	2.34065	-
+o__Cyanobacteriales	1.95923	-
+o__Candidatus_Peribacteria	1.8176	-
+o__Mycoplasmatales	2.74525	-
+o__OLB14	2.00313	-
+o__Thermomicrobiales	3.07471	-
+o__Berkelbacteria	1.34269	-
+o__Chthoniobacterales	1.9542	-
